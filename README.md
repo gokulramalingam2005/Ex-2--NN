@@ -1,5 +1,5 @@
-<H3>Name : LATHIKESHWARAN J</H3>
-<H3>Register no. 212222230072</H3>
+<H3>Name : GOKUL R J</H3>
+<H3>Register no. 212222230039</H3>
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
